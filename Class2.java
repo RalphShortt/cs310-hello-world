@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Ralph Shortt
  */
 
 public class Class2 {
